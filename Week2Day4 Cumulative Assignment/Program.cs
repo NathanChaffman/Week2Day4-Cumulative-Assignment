@@ -10,7 +10,7 @@ namespace Week2Day4_Cumulative_Assignment
     class Program
     {
         /// <summary>
-        /// This summary is from joe
+        /// This summary is from joe.
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
